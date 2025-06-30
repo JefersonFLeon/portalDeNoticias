@@ -72,7 +72,7 @@ Email: jefersonleonblue@gmail.com
 
 📷 Prints
 Página Inicial:
-![Tela de Login do Projeto](exemploTela.png)
+![Tela de Login do Projeto](./exemploTela.png)
 
 Cadastro de Notícia:
 
