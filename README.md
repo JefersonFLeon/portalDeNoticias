@@ -70,9 +70,11 @@ Jeferson Leon
 Técnico em Informática | GitHub: jefersonFLeon
 Email: jefersonleonblue@gmail.com
 
-📷 Prints
+
+
+### 📷 Tela de Login:
 Página Inicial:
-![Tela de Login do Projeto]([https://github.com/JefersonFLeon/portalDeNoticias/blob/main/exemploTela.png])(https://github.com/JefersonFLeon/portalDeNoticias/blob/main/exemploTela.png))
+![Tela de Login do Projeto](https://github.com/JefersonFLeon/portalDeNoticias/blob/main/exemploTela.png?raw=true)
 
 Cadastro de Notícia:
 
