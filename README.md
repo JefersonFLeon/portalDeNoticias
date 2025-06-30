@@ -30,7 +30,7 @@ Desenvolvido com **PHP**, **MySQL** e **Bootstrap 5**.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/joaovitor-dev/portal-noticias.git
+git clone https://github.com/jefersonFLeon/portalDeNoticias.git
 Importe o banco de dados:
 
 Abra o phpMyAdmin
@@ -51,14 +51,10 @@ Coloque o projeto dentro da pasta htdocs
 
 Acesse via navegador:
 
-arduino
-Copiar
-Editar
-http://localhost/portal-noticias
+
+http://localhost/portalDeNoticias
+
 📁 Estrutura de Pastas
-bash
-Copiar
-Editar
 portal-noticias/
 │
 ├── config/         # Arquivos de conexão com o banco
@@ -70,9 +66,9 @@ portal-noticias/
 ├── index.php       # Página inicial
 └── login.php       # Tela de login
 🧑‍💻 Autor
-João Vitor
-Técnico em Informática | GitHub: joaovitor-dev
-Email: joaovitor.dev@gmail.com
+Jeferson Leon
+Técnico em Informática | GitHub: jefersonFLeon
+Email: jefersonleonblue@gmail.com
 
 📷 Prints
 Página Inicial:
